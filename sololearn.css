@@ -3,7 +3,11 @@ html{
     padding: 0;
 }
 body {
+<<<<<<< HEAD
     font-family:'Courier New', Courier, monospace;
+=======
+    font-family: 'Handlee', cursive;
+>>>>>>> parent of 7730a9e (Update sololearn.css)
     font-size: 13pt;
     background-color: #efefef;
     padding: 10px;
