@@ -162,3 +162,10 @@ input, textarea {
     padding-bottom: 10px;
     color: grey;
 }
+
+.img , .hafte img {
+  border-radius: 0%;
+  width: 150px;
+  height: 150px;
+  vertical-align: middle;
+}
