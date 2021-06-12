@@ -3,7 +3,7 @@ html{
     padding: 0;
 }
 body {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     font-size: 13pt;
     background-color: #efefef;
     padding: 10px;
