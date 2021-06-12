@@ -27,7 +27,7 @@ p {
 .img-circle { 
     width: 150px;
     height: 150px;
-    border: 3px solid white;
+    
     border-radius: 10%;
 }
 .section {
