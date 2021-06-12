@@ -163,7 +163,7 @@ input, textarea {
     color: grey;
 }
 
-.img , .hafte img {
+  .hafte img {
   border-radius: 0%;
   width: 150px;
   height: 150px;
