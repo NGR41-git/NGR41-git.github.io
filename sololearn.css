@@ -79,7 +79,7 @@ table, th, td {
 .selected_2{
     background-color: #fae2b0;
     font-weight: bold;
-    color: rgb(10, 8, 8);
+    color: rgb(10, 8, 8);}
 li {
     margin-bottom: 15px;
     font-weight: bold;
