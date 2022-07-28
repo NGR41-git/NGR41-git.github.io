@@ -1,3 +1,6 @@
 {
-    "cSpell.language": "en,en-GB,en-US,fa-IR,fa"
+    "cSpell.language": "en,en-GB,en-US,fa-IR,fa",
+    "cSpell.enableFiletypes": [
+        "html"
+    ]
 }
