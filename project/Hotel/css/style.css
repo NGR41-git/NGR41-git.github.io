@@ -55,12 +55,26 @@ p {
     margin-top: 125px;
     border-radius: 10px;
 }
-
+.btn2 {
+    display: inline-block;
+    font-size: 20px;
+    color: #2E3A54;
+    background: #f7c08a;
+    
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 125px;
+    border-radius: 10px;
+}
 .btn:hover {
     background: #f7c08a;
     color: rgb(12, 12, 12)
 }
-
+.btn2:hover {
+    background: #ddd;
+    color: rgb(12, 12, 12)
+}
 .btn-light {
     background: #999AA1;
     color: #333;
@@ -91,12 +105,18 @@ p {
     font-size: 37px;
     text-align: center;
 }
-
+.l-heading2 {
+    font-size: 37px;
+    
+}
 .sp{font-size: 18px;
     text-align: center;
     line-height: 50px;
 }
-
+.sp2{font-size: 20px;
+ 
+    line-height: 50px;
+}
 /* padding */
 .py-1 {
     padding: 10px 0;
@@ -261,7 +281,27 @@ p {
     margin-right: 20px;
     border-radius: 50%;
 }
-
+/* Contact Form */
+#contact-form .form-group {
+margin-bottom: 20px;
+}
+#contact-form label{
+display: block;
+margin-bottom: 5px;
+}
+#contact-form input , #contact-form textarea{
+    width: 100%;
+    padding: 10px;
+    border:2px #ddd solid;
+}
+#contact-form input:focus , #contact-form textarea:focus{
+    outline: none;
+    border-color: #f7c08a;
+    border-top-right-radius: 20px;
+}
+#contact-form textarea{
+    height: 200px;
+}
 /* Footer */
 #main-footer {
     text-align: center;
