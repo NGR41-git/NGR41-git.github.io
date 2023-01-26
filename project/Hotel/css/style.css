@@ -88,10 +88,14 @@ p {
 }
 
 .l-heading {
-    font-size: 37px
+    font-size: 37px;
+    text-align: center;
 }
 
-;
+.sp{font-size: 18px;
+    text-align: center;
+    line-height: 50px;
+}
 
 /* padding */
 .py-1 {
@@ -218,6 +222,14 @@ p {
     float: left;
     width: 50%;
     min-height: 100%;
+    margin-top: 40px;
+
+}
+#about-info .info-left p{
+    line-height: 40px;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: 20px;
 
 }
 
